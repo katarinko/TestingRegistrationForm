@@ -27,11 +27,11 @@ namespace TestingRegistrationForm.Core
 
         }
 
-        /*[TearDown]
+        [TearDown]
         public void tearDown()
         {
             WebDriverManager.CloseWebDriver();
-        }*/
+        }
     }
 }
 
